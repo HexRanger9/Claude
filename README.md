@@ -19,4 +19,3 @@ https://raw.githubusercontent.com/HexRanger9/Claude/refs/heads/main/Claude18
 https://raw.githubusercontent.com/HexRanger9/Claude/refs/heads/main/Claude19
 https://raw.githubusercontent.com/HexRanger9/Claude/refs/heads/main/Claude20
 https://raw.githubusercontent.com/HexRanger9/Claude/refs/heads/main/Claude21
-https://raw.githubusercontent.com/HexRanger9/Claude/refs/heads/main/Claude22
